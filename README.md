@@ -2,14 +2,16 @@
 
 A sketch plugin for fusion design
 
+![FusionCool ScreenShot](http://g.alicdn.com/fusion-site/home/0.1.0/assets/img/pc/page-5-1.png)
+
 ## 特征
 
-一款全能的设计辅助工具
+设计物料智能生成到工具中，并同步分发供设计师使用。
 
-- Sketch最佳伴侣，组件直接拖拽使用
-- 整合设计资源，应有尽有
-- 同步组件与代码，所见即所得
-- 桌面悬停，随叫随到
+- 样式导入到Sketch中直接使用
+- Fusion物料自动同步到工具中拖拽使用
+- 业务组件Symbol上传管理及分发（9月份上线，敬请期待）
+- 设计稿上传到文档中心并自动标注（9月份上线，敬请期待）
 
 ## 环境
 
